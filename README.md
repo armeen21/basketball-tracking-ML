@@ -120,14 +120,3 @@ This will generate:
 - Animated movement patterns
 - Performance metrics plots
 
-## License
-
-MIT License - see LICENSE file for details.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Contact
-
-[Your contact information here] 
